@@ -1,4 +1,5 @@
 import type { Equal, Expect } from '@type-challenges/utils'
+import type { TupleToObject } from './template'
 
 const tuple = ['tesla', 'model 3', 'model X', 'model Y'] as const
 
